@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "august-monolith-330002",
+  "private_key_id": "a048ee37daa2dc5fa5df85fe268907f026a9d1ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkmsDzl6mZLIQ1\n1PxfyTYWxOTJZJ4W8CyiZHwbtNoauwX2/4d2kz3z7s+0C7+xN7ZEGhryx3H21tso\n+zTlOCdb2HGtZ2NonwlozG+9wzouz/pOYOaEukM++7i7EZ8j9ePRFzXptbwsJVZt\nF46Tj1onHQH7zD0ocZzQthWPlbXCeH60Zqgcne2Q6bHSlL9BeaDaHd1LmbtoqP2T\nZUvTuO7Rj9djBYTEheQC1r4b9S6MOvkrHLaLrFuNjGuVhrcU8teiHWHZN+fO8RzD\nP0IV0gz3tLmeK9DHP1sRvjTLvCNlz5wzHxtG1irUBCDLwZZae78KBdupFJExCYbU\nidu7I12hAgMBAAECggEAFI3MbT5xa5KO+cfcMbvG2MYCSZGaWgPoluiURMNq/q5+\n2q5ixHAzarvVzMYwzBjIVi2qUsmL1gZTPIVNwBeodoQLAduoop5FRwRMKbZwk/rd\nZx8bedRmZD17fkR/ijaAmZHb5hCO7DZHWfz4jT13xO2O21nQAzZYngk2nQTVOvCs\nVQ9afSLGhHh1ytuFwbut06LR2nugDeouV0B9LPhbfYA29RHmDoTlVsRNpeER6kEW\n7CrKVo6quQq1jexYF/ITenu1MS6yJH6HY0HPyefDIHJl9XbXu+VHj6AgOw+UgI91\nbzbWcR7fQN3LKGqoP0cTidc1g/bRCI+9DMPyXnDGKQKBgQDkq3bTd42u4XYH275l\nGHBw+H76rQ0hk8KTEMtScSnE4q+I55NePLWFJC6+8UInL7B39dpk96Vo5VJPZj4F\nqCtRpBSf+e2EUh/eJ/T2z3JmGnHfzM+eYYD7Zaoa9GH1iEO1qsHoYbQTa9nH93/Q\nUrgR+T2ofqvhzoc6OT21cdm5pQKBgQC4RxrbrwTGaYlFmaMToEFeU2/yPEaq9SEY\nDTwpC4vJWls3dw4i84VcFJ0w+nh5dEDENQCMEMgLtTYaWbzIIH3nC1bNMy2RO3KC\nYwG/o4v+YtYhsY1V3UIC/Dfkf7BoQ+9pAaM8P/O0F+ClDtLPPruwalYB+/Ww2+Bc\ns4qdze+7TQKBgHj5/bOC3IJY5YjiyKfTdilOTl9wjjHlaltD102WcPKouxVC7sQ8\negwmSFTcbpMst7+/YftoySnlqNY40TdM8R4QIJlCMFaA3Ds8CG1K8srx0q0EPhMc\nopBeCNCZ2fl8TdYesNewWQStWlpgpk4gdSGNKwGpgmXETeaPwgXsZbPBAoGAJMaT\n9pmkE1DGg2xY3jbSNNfj9GzREZcgBqPFiM90EzgEEjqhSJpe1/SJNlgWKO7paf7F\n4C4NLkD4ziNwiGPrnGtn5EW9Z0l83caSd8NU0ey5nTnI4gTpAp2BLgnJk9VS9xrL\nj9+XbC6Dt40QxylW3asrBPRaoPQQf4+ZL0sE99UCgYEAv1JIKFkUKXH8NLAbyL2v\n+pOYtzszlz0+Rx48mx+tMUuvVimAskGE0CTltwyIcSq+59bUXiv0JW3Cxli2OQRC\nu1E5uqOyee3LSLgfc/bbACaR5G66SxljImhABU3lnMoWWb1+k1AhYBwEb1qrwd1c\no+RMOkTeCCeKYfRW0fFgrb4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "phone-center@august-monolith-330002.iam.gserviceaccount.com",
+  "client_id": "115465512161960434316",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/phone-center%40august-monolith-330002.iam.gserviceaccount.com"
+}
